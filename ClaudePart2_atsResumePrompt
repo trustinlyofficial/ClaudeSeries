@@ -1,0 +1,62 @@
+📌 FREE PROMPTS — Claude AI ATS Resume Builder
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROMPT 1 — Method A (Attach your LinkedIn PDF):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I have attached my LinkedIn profile as a PDF. Act as an expert ATS resume writer and technical recruiter. Your task is to analyse the content from my attached document and convert it into a clean, professional, ATS-optimized ONE PAGE resume in LaTeX.
+
+Formatting Requirements:
+- Use a minimalist Harvard-style resume layout
+- Ensure the resume is ATS-friendly and easy to parse
+- Keep the resume strictly one page
+- Use clean spacing and consistent formatting
+- Avoid tables, graphics, icons, columns, or complex layouts
+
+Header: Full Name | Headline | Phone | Email | LinkedIn | GitHub
+
+Sections (in order):
+1. Professional Summary (3–4 lines, impact-focused)
+2. Technical Skills (categorised, ATS-readable)
+3. Professional Experience (reverse chronological, 3 bullets/role)
+   Each bullet: strong action verb + impact + metrics
+4. Education
+
+LaTeX Rules: Standard packages only (geometry, enumitem). Output ONLY raw LaTeX code. No comments, no markdown.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROMPT 2 — Method B (Attach your existing Resume PDF):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Same as Prompt 1 — just change the first line to:
+"I have attached my existing resume as a PDF."
+Everything else stays identical.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FRESHER ADD-ON (0–2 years) — Paste before the LaTeX Rules line:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"I am a fresher with 0–2 years of experience. Include internships, academic projects, college activities, and certifications as experience."
+"For each role/project/internship, write 2–3 bullet points. If I have limited details, expand on impact and skills demonstrated."
+"For freshers: place Education section BEFORE Professional Experience."
+"Write a summary that highlights academic strengths, technical skills, and eagerness to contribute — not years of experience."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SENIOR ADD-ON (5+ years) — Paste before the LaTeX Rules line:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"I have 5+ years of experience across multiple companies. For recent roles (last 5 years): 3 bullets. For older roles: 1–2 bullets only."
+"Focus bullets on: team size managed, budget/revenue owned, cross-functional impact, and strategic decisions — not day-to-day tasks."
+"If resume goes beyond one page, remove oldest role or merge short-tenure roles into one entry with combined dates."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROMPT 3 — Job-Specific Keyword Matching:
+(Run this for EVERY job you apply to — attach your new resume PDF)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Generate a LaTeX resume using a clean single column format for an ATS system. Use standard LaTeX packages only (no custom fonts). Attaching my resume and here is the job description. Match keywords naturally.
+
+[ATTACH YOUR RESUME PDF]
+[PASTE THE JOB DESCRIPTION BELOW THIS LINE]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
