@@ -8,7 +8,7 @@
 > Companion roadmap for the video **"AI Buzzwords Explained (2026)"**.
 > If you've ever felt lost hearing terms like *LLM, RAG, MCP, AI Agent* — this is the map that connects all of them.
 
-🎥 **Watch the full video:** [add this video's direct link once published]
+🎥 **Watch the full video:** https://youtu.be/1Sk-S3-dHZI
 📢 **Channel:** https://www.youtube.com/@Trustinly-in
 🗺️ **Interactive board (Excalidraw):** https://excalidraw.com/#json=3wWSWqMKHWhTeMxg5ItDe,zMkAIvMgyPw7vDWN0hcbBQ
 
@@ -210,8 +210,8 @@ To know if all of this is actually working, teams run **LLM Evals** and follow *
 
 If you want to go beyond this roadmap into the full ecosystem in more depth:
 
-- [Recommended video 1 — add link]
-- [Recommended video 2 — add link]
+- [Recommended video 1 — https://youtu.be/qSmGNQYP6EY?si=OG9C_3ZVEUzwc5zq
+- [Recommended video 2 — https://youtu.be/-obVN34FMSM?si=c4OmvRryUTaNl4W0
 
 ---
 
